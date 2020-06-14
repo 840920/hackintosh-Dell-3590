@@ -10,7 +10,8 @@
  Audio
 
  #Not working
-internal microphone,
+
+ internal microphone,
  Type-c port
  NVIDIA GPU
  Wi-Fi
