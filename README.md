@@ -5,8 +5,8 @@
  Brightness
  Ethernet 
  USB ports
- CPU Power Management ,
- touchpad
+ CPU Power Management
+ Touchpad
  Audio
 
  #Not working
