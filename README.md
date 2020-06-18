@@ -1,5 +1,9 @@
 # hackintosh-Dell-3590
- 
+
+
+with clover
+
+
  #Working
 
  Brightness
